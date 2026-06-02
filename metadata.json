@@ -1,0 +1,6 @@
+{
+  "name": "CBEBirr Plus",
+  "description": "Premium CBEBirr Mobile Simulator with transaction manager, downloadable VAT Invoice and PDF receipt engine, secure PIN & Biometric lock, and integrated Urban Traffic Flow optimizer for planners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
